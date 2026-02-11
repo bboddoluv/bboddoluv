@@ -1,8 +1,4 @@
 <div align=center>	
-  <div align=right>
-    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
-  </div>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=lovelyppotto&reversal=false&textBg=false&fontSize=60&fontAlign=69&fontAlignY=43&animation=fadeIn&rotate=0&descSize=2)
 
@@ -14,7 +10,6 @@
 I'm Jiwon, a beginner developer who studies with persistence and passion!  
 Always with my cute cat PPOTTO, who always gives me joy  
 
-<img src="https://ifh.cc/g/rhn4Aa.jpg" width="400" height="400" />
 
 ## Study
 🖥 I’m learning in SSAFY 12th
